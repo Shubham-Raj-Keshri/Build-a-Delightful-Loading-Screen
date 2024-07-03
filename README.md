@@ -1,0 +1,1 @@
+This setup provides a basic yet effective foundation for a delightful loading screen using HTML and CSS. Adjust and expand upon it according to your specific design preferences and functional requirements.
